@@ -10,17 +10,23 @@ Initial setup with Node Packet Manager(NPM):
     - Now you should see the front end Home page on your web browser
 
 Setting up Blockchain test network - Ganache:
+
+
 5. Install ganache GUI into your local computer
 6. Start ganache server by pressing quick star button
 
 
-Stting up Metamask for Signing transactions
+Stting up Metamask for Signing transactions:
+
+
 7. Now in metamask chose costom network as your test network
 	a. Network Name could be any of your choice
 	b. New RPC URL should be Ganache RPC Server address which is HTTP://127.0.0.1:7545  - this would be same for every one
     c. import two or three accounts by entering private keys from ganache accounts section
 
-Compiling and Migrating Smart contracts
+Compiling and Migrating Smart contracts:
+
+
 8. run truffle compile to compile contracts
 9. run truffle migrate to migrating contracts
 10. note down the contract address which is under 3_deploy_contract.js
