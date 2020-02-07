@@ -1,0 +1,8 @@
+my local test environment: Ganache
+
+first compile and migrate contract to get contract address
+
+Contract and migrate files are stored in main directory
+
+In order to make it easy for front end abi files are stored in src/ethereum folder and they also available in build directory
+
