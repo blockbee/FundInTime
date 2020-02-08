@@ -38,8 +38,6 @@ Compiling and Migrating Smart contracts:
 
 Note: If you see capaign is expired then just restart the ganache server and run "truffle migrate" command
 
-Note: If you see campain is expaired then restart the ganache server and run "truffle migrate" command 
-
 This is as simple as that
 
 Thank you
