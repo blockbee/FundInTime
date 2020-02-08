@@ -55,6 +55,7 @@ export class Campaign extends Component {
     deadlineDate.setUTCSeconds(deadlineSeconds)
 
     const accounts = await web3.eth.getAccounts()
+    console.log(accounts)
     return {
       name: name,
       targetAmount: targetAmount,
